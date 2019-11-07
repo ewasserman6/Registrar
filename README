@@ -1,0 +1,22 @@
+
+Sammie Walker
+Eric Wasserman
+2315055
+2300841
+ewasserman@chapman.edu
+swalker@chapman.edu
+CPSC 350 - 03
+Assignment 4
+
+Source Files:
+    1. main.cpp
+    2. Metrics.h
+    3. Registrar.h
+    4. student.cpp
+    5. student.h
+    6. GenQueue.h
+    7. ListNode.h
+
+References:
+    1. http://www.cplusplus.com/reference/queue/queue/
+    2. https://codescracker.com/cpp/cpp-pointers-objects.htm
